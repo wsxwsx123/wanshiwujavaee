@@ -7,92 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3114d94-e609-444b-94d3-89b51ef03885" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mybatis-3.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mybatis-generator-core-1.3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cdvtc/pepsi/controller/ContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery.vide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/oceans.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/banner_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_bmyy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_bmyy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_bmyy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_bmyy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_fxz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_fxz1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_fxz2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_fxz3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_ghg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_ghg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_ghg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_ghg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hmg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hmg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hmg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hmg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hyzg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hyzg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hyzg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_hyzg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_jy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_jy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_jy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_jy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_knx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_knx1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_knx2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_knx3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lsyj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lsyj1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lsyj2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lsyj3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lyss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lyss1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lyss2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_lyss3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_mg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_mlh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_mlh1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_mlh2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_mlh3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_th.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_th1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_th2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_th3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_tmr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_tmr1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_tmr2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_tmr3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_yj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_zll.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_zll1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_zll2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_zll3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img_zzh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/type_dj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/type_dr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/type_mg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/user_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/contactsSpringmvcTeach_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/contactsSpringmvcTeach_war_exploded2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactsSpringmvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contactsSpringmvc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/contactsSpringmvc/com/cdvtc/pepsi/controller/UsersController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cdvtc/pepsi/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cdvtc/pepsi/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/classes/com/cdvtc/pepsi/controller/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/classes/com/cdvtc/pepsi/controller/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/contactsSpringmvc/com/cdvtc/pepsi/controller/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/contactsSpringmvc/com/cdvtc/pepsi/controller/ContactController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery.vide.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/jquery.vide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/oceans.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/oceans.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,23 +80,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/jsp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/css" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\WEB-INF\jsp" />
-      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\WEB-INF\jsp\ocean" />
+      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\css" />
+      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\mp4" />
+      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\js" />
       <recent name="C:\Users\59531\Desktop\wanshiwuee\web" />
+      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\WEB-INF\jsp\ocean" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="com.cdvtc.pepsi.data" />
@@ -183,11 +110,11 @@
       <recent name="com.cdvtc.contact.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\59531\Desktop\wanshiwuee\web\css" />
       <recent name="C:\Users\59531\Desktop\wanshiwuee\web\WEB-INF\jsp" />
       <recent name="C:\Users\59531\Desktop\wanshiwuee\lib" />
       <recent name="C:\Users\59531\Desktop\wanshiwuee" />
       <recent name="C:\Users\59531\Desktop\wanshiwuee\web\WEB-INF" />
-      <recent name="D:\Development\JetBrains\IDEAWorkspace\contactsSpringmvcTeach\lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -330,7 +257,7 @@
       <workItem from="1590661138818" duration="1381000" />
       <workItem from="1590669550275" duration="2198000" />
       <workItem from="1590676800794" duration="612000" />
-      <workItem from="1591075200281" duration="4938000" />
+      <workItem from="1591075200281" duration="6821000" />
     </task>
     <servers />
   </component>
@@ -343,11 +270,11 @@
     </state>
     <state x="326" y="43" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1585655717704" />
     <state x="391" y="47" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590581998706" />
-    <state x="34" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590587769056">
+    <state x="34" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591081615466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="28" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1585663471217" />
-    <state x="34" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590587769056" />
+    <state x="34" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591081615466" />
     <state x="132" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585647755024">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -381,82 +308,82 @@
     </state>
     <state x="314" y="123" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1585659003741" />
     <state x="377" y="133" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590581639345" />
-    <state width="1024" height="221" key="GridCell.Tab.0.bottom" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.0.bottom" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="212" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585881359183" />
-    <state width="1024" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.0.center" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.0.center" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="212" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1585881359183" />
-    <state width="1024" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.0.left" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.0.left" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="212" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1585881359183" />
-    <state width="1024" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.0.right" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.0.right" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="212" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1585881359183" />
-    <state width="1024" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.1.bottom" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.1.bottom" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585881127097" />
-    <state width="1024" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.1.center" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.1.center" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1585881127094" />
-    <state width="1024" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.1.left" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.1.left" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1585881127094" />
-    <state width="1024" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.1.right" timestamp="1591079092109">
+    <state width="1024" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.1.right" timestamp="1591081979125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1585881127095" />
-    <state width="1024" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591079092109" />
-    <state width="1024" height="221" key="GridCell.Tab.2.bottom" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591081979125" />
+    <state width="1024" height="182" key="GridCell.Tab.2.bottom" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.2.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585881127099" />
-    <state width="1024" height="221" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.2.center" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.2.center" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.2.center/0.0.1280.760@0.0.1280.760" timestamp="1585881127097" />
-    <state width="1024" height="221" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.2.left" timestamp="1591079092052">
+    <state width="1024" height="182" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.2.left" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.2.left/0.0.1280.760@0.0.1280.760" timestamp="1585881127097" />
-    <state width="1024" height="221" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591079092052" />
-    <state width="1024" height="221" key="GridCell.Tab.2.right" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.2.right" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="942" height="129" key="GridCell.Tab.2.right/0.0.1280.760@0.0.1280.760" timestamp="1585881127098" />
-    <state width="1024" height="221" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.3.bottom" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.3.bottom" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="221" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.3.center" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.3.center" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="221" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.3.left" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.3.left" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="221" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
-    <state width="1024" height="221" key="GridCell.Tab.3.right" timestamp="1591079092053">
+    <state width="1024" height="182" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
+    <state width="1024" height="182" key="GridCell.Tab.3.right" timestamp="1591081979073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="221" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1591079092053" />
+    <state width="1024" height="182" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1591081979073" />
     <state width="954" height="276" key="GridCell.Tab.8.bottom" timestamp="1585746486389">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -493,11 +420,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590669474162" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1591076211713">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1591081645828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="120" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1585661184560" />
-    <state x="144" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591076211713" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591081645828" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590669566060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
