@@ -8,16 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3114d94-e609-444b-94d3-89b51ef03885" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/classes/com/cdvtc/pepsi/controller/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/classes/com/cdvtc/pepsi/controller/ContactController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/contactsSpringmvcTeach_war_exploded2/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/contactsSpringmvc/com/cdvtc/pepsi/controller/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/contactsSpringmvc/com/cdvtc/pepsi/controller/ContactController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/jquery.vide.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/jquery.vide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/oceans.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/oceans.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +248,7 @@
       <workItem from="1590661138818" duration="1381000" />
       <workItem from="1590669550275" duration="2198000" />
       <workItem from="1590676800794" duration="612000" />
-      <workItem from="1591075200281" duration="6821000" />
+      <workItem from="1591075200281" duration="7671000" />
     </task>
     <servers />
   </component>
