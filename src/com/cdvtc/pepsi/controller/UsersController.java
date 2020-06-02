@@ -24,10 +24,10 @@ public class UsersController {
      * 跳转到登录页面
      * @return
      */
-    @RequestMapping("/toLogin")
-    public String toLogin(){
-        return "login";
-    }
+//    @RequestMapping("/toLogin")
+//    public String toLogin(){
+//        return "login";
+//    }
 
     /**
      * 注册
